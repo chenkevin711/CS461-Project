@@ -1,0 +1,36 @@
+# Node modules (React frontend)
+Frontend/node_modules/
+Frontend/build/
+Frontend/.env.local
+Frontend/.env.development.local
+Frontend/.env.test.local
+Frontend/.env.production.local
+
+# Python virtual environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Python env files
+.env
+
+# VSCode settings (optional)
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Byte-compiled and cache
+*.egg-info/
+dist/
+build/
+
+# Uvicorn reload files
+*.reload
